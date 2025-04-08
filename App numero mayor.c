@@ -2,7 +2,7 @@
 ''
 
 
-//Nombre del alumno: Diego Soto Vargas.
+//Nombre del alumno: Hazek.
 
 //Nombre de la carrera: Ingenieria en Ciberseguridad.
 
