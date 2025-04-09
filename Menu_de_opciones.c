@@ -1,4 +1,4 @@
-                          // APP QUE PIDA LA CONSULTA DE SALDO 
+                                            // MENU DE OPCIONES
 
 
 //Nombre del alumno: Hazek.
